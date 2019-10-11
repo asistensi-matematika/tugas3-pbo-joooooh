@@ -1,8 +1,8 @@
 # TUGAS 3 ASISTENSI PBO - Jumat, 4 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: `JOHANNA SERENA ALIM`
 
-NRP: `isi nrp disini`
+NRP: `06111840000106`
 
 ## Deskripsi Soal
 Buat class **LinearEquation** untuk sistem persamaan linear 2x2:
@@ -51,7 +51,8 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 ![](/img/3.png)
 
 ## Screenshot hasil
-masukkan screenshot output disini
+![](https://user-images.githubusercontent.com/56016417/66629215-4c568c00-ec2b-11e9-8ee3-eb7f6286009a.png)
+![](https://user-images.githubusercontent.com/56016417/66629216-4c568c00-ec2b-11e9-84f8-9122117a59f8.png)
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
